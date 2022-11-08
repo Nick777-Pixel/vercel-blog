@@ -18,7 +18,7 @@ In the past years, we ditched all the lights, shadows, and textures in our UI de
 
 It’s like the [simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing) algorithm. Over time, we move and try, again and again, and we seem to be closer to the best result in our sights.
 
-But unfortunately, that “good result”—the hill from that chart, is a moving target. We get bored with the same aesthetics every once in a while, and the environment changes rapidly as well. The term “trend”, describes the shape of good design in people’s minds at a certain time.
+But unfortunately, the “good result”—that peak on our previous chart, is a moving target. We get bored with the same aesthetics every once in a while, and the environment changes rapidly as well. The term “trend”, describes the shape of good design in people’s minds at a certain time.
 
 ![Good Design moves over time](../../public/images/good-design-3.png)
 
