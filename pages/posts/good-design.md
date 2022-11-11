@@ -24,4 +24,4 @@ But unfortunately, the “good result”—that peak on our previous chart, is a
 
 The variable is **time**. When chasing the trend, we are chasing a moving target. We do new designs every year for the same old things, not as an improvement, but for following the trend.
 
-I want to decorrelate time from my design. I want understand _design_ better, and find the non-exsiting _good design_, that is beyond the past, now, and future. As Dieter Rams said, good design is timeless.
+I want to decorrelate time from my design. I want to understand _design_ better, and find the non-exsiting _good design_, that is beyond the past, now, and future. As Dieter Rams said, good design is timeless.
