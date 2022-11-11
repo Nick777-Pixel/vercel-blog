@@ -1,5 +1,10 @@
 lockfileVersion: 5.4
 
+patchedDependencies:
+  nextra-theme-blog@2.0.0-alpha.55:
+    hash: gswsnurdvstm6ylqwtyv22p2ce
+    path: patches/nextra-theme-blog@2.0.0-alpha.55.patch
+
 specifiers:
   canvas-confetti: ^1.5.1
   gray-matter: ^4.0.2
@@ -15,7 +20,7 @@ dependencies:
   gray-matter: 4.0.3
   next: 12.1.6_ef5jwxihqo6n7gxfmzogljlgcm
   nextra: 2.0.0-alpha.56_react@18.1.0
-  nextra-theme-blog: 2.0.0-alpha.55_2mgcgz5qhsdxw4fgpqzqeafmkq
+  nextra-theme-blog: 2.0.0-alpha.55_gswsnurdvstm6ylqwtyv22p2ce_2mgcgz5qhsdxw4fgpqzqeafmkq
   react: 18.1.0
   react-dom: 18.1.0_react@18.1.0
   rss: 1.2.2
@@ -1218,7 +1223,7 @@ packages:
       - babel-plugin-macros
     dev: false
 
-  /nextra-theme-blog/2.0.0-alpha.55_2mgcgz5qhsdxw4fgpqzqeafmkq:
+  /nextra-theme-blog/2.0.0-alpha.55_gswsnurdvstm6ylqwtyv22p2ce_2mgcgz5qhsdxw4fgpqzqeafmkq:
     resolution: {integrity: sha512-UZoNDqCGvUU5fclz491r1TjN4gwmntsr71Lex3J5coaq/5PdHor3welM/TU6T+0rmuhVBd4v4kxuFETLHT6+Ug==}
     peerDependencies:
       next: '>=9.5.3'
@@ -1233,6 +1238,7 @@ packages:
       react-cusdis: 2.1.3_ef5jwxihqo6n7gxfmzogljlgcm
       react-dom: 18.1.0_react@18.1.0
     dev: false
+    patched: true
 
   /nextra/2.0.0-alpha.56_react@18.1.0:
     resolution: {integrity: sha512-U6vFoUj4Oc+Px9WyNOUJWdta6j8B+dKtjbWvE1jCoz9wdAARtWxIZknIEMK62yt94zZeUjJg5KCzj1HBZc6UpQ==}

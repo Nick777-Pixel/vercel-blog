@@ -22,5 +22,10 @@
   "prettier": {
     "semi": false,
     "proseWrap": "never"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "nextra-theme-blog@2.0.0-alpha.55": "patches/nextra-theme-blog@2.0.0-alpha.55.patch"
+    }
   }
 }
