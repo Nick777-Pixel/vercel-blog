@@ -10,7 +10,7 @@ image: https://shud.in/images/good-design.png
 
 ![A x/y chart of Good Design and Fancy Design](../../public/images/good-design.png)
 
-The other day I was chatting with [Paco](https://paco.me) about this. Sometimes we’ve been focusing on the fancy things too much and forgotten about the goal. The word “fancy” can be changed to a lot of other things too. In general, “goodness” doesn’t scale linearly with the complexity of the design.
+The other day I was chatting with [Paco](https://paco.me) about this. Sometimes we’ve been focusing on the fancy things too much and forgotten about the goal. You can replace the word “fancy” with many other things too. In general, “goodness” doesn’t scale linearly with the complexity of the design.
 
 In the past years, we ditched all the lights, shadows, and textures in our UI designs. And now we are slowly adding them back. This is not an argument about flat design and skeuomorphism design, nor a step back but moving forward by understanding design better.
 
